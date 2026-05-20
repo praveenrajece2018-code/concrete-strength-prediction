@@ -1,3 +1,11 @@
+# Concrete Compressive Strength Prediction
+
+## Overview
+
+This project predicts concrete compressive strength using machine learning regression techniques. The dataset contains concrete mixture components such as cement, blast furnace slag, fly ash, water, superplasticizer, coarse aggregate, fine aggregate, and age.
+
+The goal is to estimate concrete compressive strength in MPa based on material composition and curing age.
+
 ## Exploratory Data Analysis
 
 ### Dataset Preview
